@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.App {
+  width: 40%;
+  margin: 0 auto;
+}
